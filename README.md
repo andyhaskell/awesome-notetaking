@@ -32,3 +32,9 @@ Please read [contribution guidelines](https://github.com/andyhaskell/awesome-not
 *Books with notetaking and study advice*
 
 [TODO] Send in some PRs of your favorite books for notetaking tips!
+
+## Apps
+
+*Apps for taking notes*
+
+* [Notion](https://notion.so) An app for notes, wikis, tasks, and spreadsheets
