@@ -21,6 +21,7 @@ Please read [contribution guidelines](https://github.com/andyhaskell/awesome-not
 * [Bullet Journal - How to Bullet Journal](https://www.youtube.com/watch?v=fm15cmYU0IM)
 * [Mariana's Study Corner - The Best, Fastest Note Taking Method! // UPDATED](https://www.youtube.com/watch?v=lQvjvi08QSk)
 * [Studytee - How to take efficient and neat notes - 10 note taking tips](https://www.youtube.com/watch?v=m5cQ5bWLi2A)
+* [How to Take Notes in Class: The 5 Best Methods - College Info Geek](https://youtu.be/AffuwyJZTQQ)
 
 ## Blogs and webpages
 
