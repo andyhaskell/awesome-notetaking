@@ -39,3 +39,4 @@ Please read [contribution guidelines](https://github.com/andyhaskell/awesome-not
 *Apps for taking notes*
 
 * [Notion](https://notion.so) An app for notes, wikis, tasks, and spreadsheets
+* [Dash](https://kapeli.com/dash) An app for code snippets and docsets.
