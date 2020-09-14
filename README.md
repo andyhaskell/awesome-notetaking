@@ -40,3 +40,4 @@ Please read [contribution guidelines](https://github.com/andyhaskell/awesome-not
 
 * [Notion](https://notion.so) An app for notes, wikis, tasks, and spreadsheets
 * [Dash](https://kapeli.com/dash) An app for code snippets and docsets.
+* [GitJournal](https://gitjournal.io) Mobile first markdown notes integrated with Git
